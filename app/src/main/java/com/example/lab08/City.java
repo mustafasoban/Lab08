@@ -1,7 +1,7 @@
 package com.example.lab08;
 
 public class City {
-    private String city;
+    private String city; //comment
     private String province;
 
     public City(String city, String province){
